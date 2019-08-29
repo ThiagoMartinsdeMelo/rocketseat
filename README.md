@@ -1,3 +1,3 @@
-# rocketseat
+# Rocketseat
 
-Courses and tutorials developed by Rocketseat
+Courses and tutorials developed by Rocketseat.
