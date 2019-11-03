@@ -18,7 +18,6 @@
                         uf: "SP"
                     }
             console.log(exibeEndereco(endereco));
-            
         </script>
     </body>
 </html>
